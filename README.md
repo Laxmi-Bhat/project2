@@ -1,4 +1,4 @@
 # New Project
-This is my first project from local system
+This is my first project from local system.
 
-Created by Laxmi Bhat
+Created by Laxmi Bhat.
